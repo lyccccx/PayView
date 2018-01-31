@@ -25,6 +25,7 @@ namespace Com.Alipay
         public Core()
         {
             int d = 0;
+            int vvvvv = 0;
         }
 
         /// <summary>
